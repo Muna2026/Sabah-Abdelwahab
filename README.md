@@ -1,38 +1,96 @@
-<!---![Monash UAS](https://raw.githubusercontent.com/alwinw/alwinw/master/images/Monash-UAS-Banner.jpg)--->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Sabah Abdelwahab | GitHub Profile</title>
+</head>
+<body>
 
-![Monash UAS](https://raw.githubusercontent.com/alwinw/alwinw/master/images/Alwin.svg)
+    <!-- Profile Banner -->
+    <p align="center">
+        <img src="https://raw.githubusercontent.com/alwinw/alwinw/master/images/Alwin.svg" width="200" alt="Profile Banner">
+    </p>
 
-<p align="center">
-    <a href="https://github.com/alwinw" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@alwinw-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/alwinrwang" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
-    <a href="https://www.researchgate.net/profile/Alwin_Wang" target="_blank"><img alt="ResearchGate" src="https://img.shields.io/badge/-ResearchGate-00CCBB?style=flat-square&logo=ResearchGate&logoColor=white"></a>
-    <a href="https://orcid.org/0000-0003-4883-2917" target="_blank"><img alt="ORCID" src="https://img.shields.io/badge/-ORCID-A6CE39?style=flat-square&logo=ORCID&logoColor=white"></a>
-    <a href="https://stackoverflow.com/users/5782687/alwin" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=Stack-Overflow&logoColor=white"></a>
-    <a href="https://stackexchange.com/users/4446338/alwin" target="_blank"><img alt="Stack Exchange" src="https://img.shields.io/badge/-Stack%20Exchange-1E5297?style=flat-square&logo=Stack-Exchange&logoColor=white"></a>
-</p>
+    <!-- Name & Title -->
+    <h1 align="center">👩‍🏫 Sabah Abdelwahab</h1>
+    <h3 align="center">Robotics & Programming Trainer | Ages 4–22 | STEAM Educator</h3>
 
-<p align="center">
-    <a href="https://github.com/alwinw?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white"></a>
-    <a href="https://github.com/alwinw?tab=repositories&language=python" target="_blank"><img alt="python" src="https://img.shields.io/badge/-python-3776AB?style=flat-square&logo=Python&logoColor=white"></a>
-    <a href="https://github.com/alwinw?tab=repositories&language=r" target="_blank"><img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white"></a>
-    <a href="https://github.com/alwinw?tab=repositories&language=c%2B%2B" target="_blank"><img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"></a>
-    <a href="https://github.com/alwinw?tab=repositories&language=shell" target="_blank"><img alt="shell" src="https://img.shields.io/badge/-shell-5391FE?style=flat-square&logo=PowerShell&logoColor=white"></a>
-    <a href="https://github.com/alwinw?tab=repositories&language=matlab" target="_blank"><img alt="MATLAB" src="https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=Mathworks&logoColor=white"></a>
-    <a href="https://github.com/alwinw?tab=repositories&language=TeX" target="_blank"><img alt="LaTeX" src="https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white"></a>
-</p>
+    <hr>
 
-<p align="center">
-    <a href="https://github.com/alwinw?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>
-    <a href="https://github.com/alwinw" target="_blank"><img alt="alwinw" src="https://badges.pufler.dev/visits/alwinw/alwinw?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
-    <!--<a href="https://github.com/alwinw" target="_blank"><img alt="profile hits" src="https://img.shields.io/jsdelivr/gh/hw/alwinw/alwinw?label=hits&style=flat-square"></a>-->
-    <a href="https://github.com/alwinw/alwinw" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/alwinw/alwinw?label=profile%20updated&style=flat-square"></a>
-</p>
+    <!-- About Section -->
+    <h2>👋 About Me</h2>
+    <p>
+        I am <strong>Sabah Abdelwahab</strong>, a passionate <strong>Robotics and Programming Trainer</strong>
+        with experience teaching students from <strong>4 to 22 years old</strong>.
+    </p>
 
-<details>
-<summary>Click for GitHub Stats</summary>
-<p align="center">
-    <img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=alwinw&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
-    <br>
-    <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alwinw&hide=html,&hide_border=true&title_color=5391FE&text_color=555"
-</p>
-</details>
+    <p>I specialize in:</p>
+    <ul>
+        <li>🤖 Educational Robotics</li>
+        <li>💻 Programming Fundamentals</li>
+        <li>🧠 Computational Thinking</li>
+        <li>🎓 STEAM-based Learning</li>
+    </ul>
+
+    <p>
+        My mission is to make <strong>technology education simple, fun, and accessible</strong>
+        for all age groups.
+    </p>
+
+    <hr>
+
+    <!-- Social Links -->
+    <h2>🌐 Connect with Me</h2>
+    <p align="center">
+        <a href="https://www.facebook.com/sabahelwahab/" target="_blank">
+            <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook">
+        </a>
+        &nbsp;
+        <a href="https://www.facebook.com/groups/879990956017152" target="_blank">
+            <img src="https://img.shields.io/badge/Facebook%20Group-4267B2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook Group">
+        </a>
+        &nbsp;
+        <a href="https://www.linkedin.com/in/sabah-m-abdelwahab-3725391bb/" target="_blank">
+            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+        </a>
+    </p>
+
+    <hr>
+
+    <!-- Skills Section -->
+    <h2>🛠️ Skills & Tools</h2>
+    <p align="center">
+        <img src="https://img.shields.io/badge/Robotics-FF6F00?style=flat-square&logo=robot-framework&logoColor=white" alt="Robotics">
+        <img src="https://img.shields.io/badge/Scratch-4D97FF?style=flat-square&logo=scratch&logoColor=white" alt="Scratch">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
+        <img src="https://img.shields.io/badge/STEAM-Education-success?style=flat-square" alt="STEAM">
+    </p>
+
+    <hr>
+
+    <!-- GitHub Stats -->
+    <h2>📊 GitHub Stats</h2>
+    <details>
+        <summary>Click to view GitHub statistics</summary>
+        <p align="center">
+            <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true" alt="GitHub Stats">
+            <br><br>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true" alt="Top Languages">
+        </p>
+    </details>
+
+    <hr>
+
+    <!-- Quote -->
+    <h3>🌱 Teaching Philosophy</h3>
+    <blockquote>
+        Learning technology should start with curiosity, creativity, and confidence — not fear.
+    </blockquote>
+
+    <hr>
+
+    <p>⭐ Feel free to explore my repositories, educational projects, and teaching resources.</p>
+
+</body>
+</html>
